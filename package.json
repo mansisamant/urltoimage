@@ -1,0 +1,22 @@
+{
+  "name": "package-npn",
+  "version": "1.0.0",
+  "description": "learning npn",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xy"
+  ],
+  "author": "millie",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.10",
+    "qr-image": "^3.2.0",
+    "sillyname": "^0.1.0",
+    "superheroes": "^3.0.0",
+    "url-to-image": "^1.0.0"
+  }
+}
